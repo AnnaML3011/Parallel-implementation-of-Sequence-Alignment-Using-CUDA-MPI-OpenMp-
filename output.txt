@@ -1,0 +1,4 @@
+Sequence Number: 1	|Best offset(n): 85	|Best MS(k): 363	
+Sequence Number: 2	|Best offset(n): 41	|Best MS(k): 126	
+Sequence Number: 3	|Best offset(n): 51	|Best MS(k): 855	
+Sequence Number: 4	|Best offset(n): 245	|Best MS(k): 975	
